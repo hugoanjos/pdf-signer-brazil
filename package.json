@@ -26,6 +26,9 @@
     "type": "git",
     "url": "git+https://github.com/hugoanjos/pdf-signer-brazil.git"
   },
+  "files": [
+    "dist"
+  ],
   "author": "",
   "license": "MIT",
   "keywords": [
